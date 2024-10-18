@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/RocketLauncher.unity
+    guid: 73561d1962dde6d458da9ecf7981fc4a
   m_configObjects: {}
